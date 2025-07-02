@@ -1,0 +1,7 @@
+flask
+pymongo
+redis
+confluent-kafka
+FLASK_JWT_EXTENDED
+Werkzeug
+FLASK-SQLAlchemy
